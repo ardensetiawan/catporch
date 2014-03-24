@@ -1,0 +1,31 @@
+.rd-header{
+   background-image:url('../images/bg-header.jpg');
+   background-position:center top;
+   background-size:cover;
+   width:100%;
+   min-height:500px;
+   height:auto !important;
+   height:500px;
+}
+
+.rd-header-title{
+   padding:15px 0px;
+   background:url('../images/bg-overlay-dark-75.png') repeat;
+   background:rgba(0,0,0,0.75);
+}
+
+.rd-header-title h1{
+   margin:0px;
+   margin-bottom:5px;
+   padding:0px;
+   font-size:3em;
+   color:#ffffff;
+   text-align:right;
+}
+.rd-header-title p{
+   margin:0px;
+   padding:0px;
+   font-size:0.8em;
+   color:#ffffff;
+   text-align:right;
+}
